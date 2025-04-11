@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container-form{
+
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    background-color: #ccc;
+}
+
+h2{
+    text-align: center;
+    color: #272727;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+label{
+    margin-bottom: 15px;
+    color: #000;
+}
+input{
+    padding: 8px;
+    margin-top: 5px;
+    font-size: 1rem;
+    border: 1px solid #bbbaba;
+    border-radius: 5px;
+    width: 100%;
+} 
+button{
+    padding: 5px;
+    margin-top: 25px;
+    background-color: #555;
+    color: #eee;
+}
+button:hover{
+    background-color: #777;
+    transition: 0.6s;
+}
+.mensaje{
+    margin-top: 15px;
+
+}
