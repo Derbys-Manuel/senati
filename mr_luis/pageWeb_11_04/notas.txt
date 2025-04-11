@@ -1,0 +1,10 @@
+			Desarrollo de Pagina web
+	
+	Utilizaremos tailwind, para estilizar nuestra pagina web.
+	
+	1)Utilizamos la instalacion de la documentacion de tailwind que 
+	que nos permite usarlo en react (next js)
+
+	2)Abrimos nuestro proyecto en visual studio code
+
+	3)	

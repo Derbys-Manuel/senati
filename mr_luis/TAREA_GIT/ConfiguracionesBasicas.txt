@@ -1,0 +1,25 @@
+			LISTA DE COMANDOS USADOS
+
+	1)git inint: Inicializamos el repositorio
+	
+	_Luego de realizar nuestros cambios usamos los siguientes 
+	comandos.
+
+	2)git add .
+	3)git commit -m "FIRST COMMIT"
+	
+	_Configuramos nuestros datos, si aun no lo hemos hecho
+
+	4)git config user.name "nombre-de-github"
+	5)git config user.email "email-de-github"
+
+	_Conectamos nuestro repositorio local a nuestro repositorio 
+	remoto que creamos en github.
+
+	6)git remote add origin "url-repositorio-github(https)"
+	
+	_Una vez tengamos listo nuestros cambios, y luego de haber 
+	utilizado git add y git commit, podemos subir nuestros cambios a 
+	nuestro repositorio remoto
+	
+	7)git push origin -u master
